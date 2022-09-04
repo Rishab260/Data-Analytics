@@ -1,2 +1,2 @@
-DataSets can be found here:
+Data can be found here:
 https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
